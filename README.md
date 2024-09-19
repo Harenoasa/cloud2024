@@ -1,1 +1,1 @@
-这个人很懒，什么也没留下 
+This person are lazy ,left nothing to say.
