@@ -1,0 +1,10 @@
+GET http://localhost:8001/pay/get/1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-08-22T210135.500.json
+
+###
+
