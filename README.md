@@ -1,1 +1,1 @@
-This person are lazy ,left nothing to say.
+This person is lazy ,left nothing to say.
