@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d050c5c-b6e9-4ed1-ab3a-454fb71aa104" name="Changes" comment="" />
+    <list default="true" id="4d050c5c-b6e9-4ed1-ab3a-454fb71aa104" name="Changes" comment="new create cloud2024 project">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/cloud/SeataAccountMainApp2003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/cloud/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/cloud/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/cloud/mapper/AccountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/cloud/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/cloud/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-account-service2003/src/main/resources/mapper/AccountMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/cloud/SeataStorageMainApp2002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/cloud/controller/StorageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/cloud/entities/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/cloud/mapper/StorageMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/cloud/service/StorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/cloud/service/impl/StorageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/mapper/StorageMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seata-storage-service2002/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/cloud/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +38,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Mybatis Mapper" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Harenoasa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Harenoasa/cloud2024.git&quot;,
+    &quot;accountId&quot;: &quot;fa44f017-d966-4a26-8576-b7b675d6be3d&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -34,65 +75,76 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2l0PiOTSw8RuvNNXxGC6qSzu0Cb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.PayController.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "HTTP Request.generated-requests | #1.executor": "Run",
-    "HTTP Request.generated-requests | #2.executor": "Run",
-    "Maven.cloud-api-commons [install].executor": "Run",
-    "Maven.cloud2024 [clean].executor": "Run",
-    "Maven.cloud2024 [compile].executor": "Run",
-    "Maven.mybatis_generator2024 [org.mybatis.generator:mybatis-generator-maven-plugin:1.4.2:generate].executor": "Run",
-    "Maven.mybatis_generator2024 [org.mybatis.generator:mybatis-generator-maven-plugin:1.4.2:help].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.Main3377.executor": "Run",
-    "Spring Boot.Main80.executor": "Run",
-    "Spring Boot.Main8001.executor": "Run",
-    "Spring Boot.Main8002.executor": "Run",
-    "Spring Boot.Main802.executor": "Run",
-    "Spring Boot.Main83.executor": "Run",
-    "Spring Boot.Main8401.executor": "Run",
-    "Spring Boot.Main9001.executor": "Run",
-    "Spring Boot.Main9002 (copy from 9001).executor": "Run",
-    "Spring Boot.Main9527.executor": "Run",
-    "Spring Boot.MainOpenFeign80.executor": "Run",
-    "StatusDashboardGroupingRule": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Javaprojects/hello-minio/cloud2024",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "E:/Javaprojects/hello-minio/cloud2024/cloud-provider-payment8001/src/main/java/com/atguigu/cloud/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.153125",
-    "project.structure.side.proportion": "0.20607176",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PayController.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #2.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.cloud-api-commons [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.cloud2024 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.cloud2024 [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mybatis_generator2024 [org.mybatis.generator:mybatis-generator-maven-plugin:1.4.2:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mybatis_generator2024 [org.mybatis.generator:mybatis-generator-maven-plugin:1.4.2:help].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Main3377.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main80.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main8001.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main8002.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main802.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main83.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main8401.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main9001.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main9002 (copy from 9001).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Main9527.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.MainOpenFeign80.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SeataAccountMainApp2003.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SeataOrderMainApp2001.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SeataStorageMainApp2002.executor&quot;: &quot;Run&quot;,
+    &quot;StatusDashboardGroupingRule&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Javaprojects/hello-minio/cloud2024/seata-order-service2001/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Javaprojects/hello-minio/cloud2024/cloud-provider-payment8001/src/main/java/com/atguigu/cloud/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.153125&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20607176&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Javaprojects\hello-minio\cloud2024\seata-order-service2001\src\main\resources" />
       <recent name="E:\Javaprojects\hello-minio\cloud2024\seata-order-service2001\src\main\java\com\atguigu\cloud" />
       <recent name="E:\Javaprojects\hello-minio\cloud2024\cloudconsumer-feign-order80\src\main\java\com\atguigu\cloud" />
       <recent name="E:\Javaprojects\hello-minio\cloud2024\cloud-provider-payment8002" />
       <recent name="E:\Javaprojects\hello-minio\cloud2024\cloud-provider-payment8002\src\main" />
-      <recent name="E:\Javaprojects\hello-minio\cloud2024\cloud-provider-payment8002\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Javaprojects\hello-minio\cloud2024\cloud-provider-payment8001\src\main\resources\mapper" />
@@ -113,20 +165,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Main83">
-    <configuration name="Main3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloudalibaba-config-nacos-client3377" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main3377" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.cloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.SeataAccountMainApp2003">
     <configuration name="Main80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="cloud-consumer-order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main80" />
@@ -208,6 +247,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeataAccountMainApp2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-account-service2003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.SeataAccountMainApp2003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SeataOrderMainApp2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="seata-order-service2001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.SeataOrderMainApp2001" />
@@ -215,25 +267,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeataStorageMainApp2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.SeataStorageMainApp2002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Spring Boot.SeataStorageMainApp2002" />
       <item itemvalue="Spring Boot.SeataOrderMainApp2001" />
       <item itemvalue="Spring Boot.Main9527" />
       <item itemvalue="Spring Boot.Main8001" />
       <item itemvalue="Spring Boot.Main8002" />
       <item itemvalue="Spring Boot.Main80" />
+      <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
       <item itemvalue="Spring Boot.Main8401" />
-      <item itemvalue="Spring Boot.Main3377" />
       <item itemvalue="Spring Boot.Main83" />
       <item itemvalue="Spring Boot.Main9001" />
       <item itemvalue="Spring Boot.Main9002 (copy from 9001)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
         <item itemvalue="Spring Boot.Main83" />
         <item itemvalue="Spring Boot.Main9001" />
         <item itemvalue="Spring Boot.Main8401" />
         <item itemvalue="Spring Boot.Main9002 (copy from 9001)" />
-        <item itemvalue="Spring Boot.Main3377" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +348,28 @@
       <workItem from="1726633825084" duration="9850000" />
       <workItem from="1726649567300" duration="21532000" />
       <workItem from="1726742174340" duration="18976000" />
-      <workItem from="1726770288910" duration="636000" />
+      <workItem from="1726770288910" duration="3016000" />
+      <workItem from="1726800045233" duration="339000" />
+      <workItem from="1726801041269" duration="4591000" />
+      <workItem from="1726805661808" duration="595000" />
     </task>
+    <task id="LOCAL-00001" summary="new create cloud2024 project">
+      <option name="closed" value="true" />
+      <created>1726771144462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726771144462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new create cloud2024 project" />
+    <option name="LAST_COMMIT_MESSAGE" value="new create cloud2024 project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

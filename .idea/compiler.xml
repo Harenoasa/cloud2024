@@ -17,6 +17,7 @@
         <module name="cloudconsumer-feign-order80" />
         <module name="cloudalibaba-provider-payment9001" />
         <module name="cloudalibaba-consumer-nacos-order83" />
+        <module name="seata-account-service2003" />
         <module name="seata-storage-service2002" />
         <module name="mybatis_generator2024" />
         <module name="cloud-consumer-order80" />
